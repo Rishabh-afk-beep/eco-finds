@@ -99,5 +99,3 @@ Home Page
 Product Listing	Add Screenshot
 Wishlist	Add Screenshot
 Eco Stats Dashboard	Add Screenshot
-
-🔗 Live Demo: [Add your deployed project link here]
